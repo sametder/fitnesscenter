@@ -1,0 +1,77 @@
+Üye Numarasi: 1
+İsim: samet der
+Telefon: 320309232
+Yaş: 20
+Cinsiyet: e
+Boy: 1.77
+Kilo: 77
+BKİ: 24.577867151840145
+Kayit Tarihi: 2023-09-10 18:25:57.897465
+Kayit Süresi: 1 ay 
+
+Üye Numarasi: 1
+İsim: mert der
+Telefon: 38283232
+Yaş: 24
+Cinsiyet: e
+Boy: 1.8
+Kilo: 85
+BKİ: 26.234567901234566
+Kayit Tarihi: 2023-09-10 18:26:20.322734
+Kayit Süresi: 1 ay 
+
+Üye Numarasi: 1
+İsim: samet der
+Telefon: 54455454
+Yaş: 21
+Cinsiyet: e
+Boy: 1.77
+Kilo: 77
+BKİ: 24.577867151840145
+Kayit Tarihi: 2023-09-10 18:29:37.994678
+Kayit Süresi: 4 ay 
+
+Üye Numarasi: 1
+İsim: mert der
+Telefon: 54455
+Yaş: 24
+Cinsiyet: e
+Boy: 1.8
+Kilo: 85
+BKİ: 26.234567901234566
+Kayit Tarihi: 2023-09-10 18:29:57.390337
+Kayit Süresi: 2 ay 
+
+Üye Numarasi: 1
+İsim: dawdawdawdaw
+Telefon: 545454
+Yaş: 20
+Cinsiyet: e
+Boy: 1.77
+Kilo: 45
+BKİ: 14.363688595231254
+Kayit Tarihi: 2023-09-10 18:31:38.144658
+Kayit Süresi: 4 ay 
+
+Üye Numarasi: 230478
+İsim: Samet DER
+Telefon: 5454288718
+Yaş: 20
+Cinsiyet: E
+Boy: 1.77
+Kilo: 77
+BKİ: 24.577867151840145
+Kayit Tarihi: 2023-09-10 18:35:02.297251
+Kayit Süresi: 12 ay 
+
+Üye Numarasi: 783846
+İsim: Mert DER
+Telefon: 5345274505
+Yaş: 24
+Cinsiyet: e
+Boy: 1.8
+Kilo: 85
+BKİ: 26.234567901234566
+Kayit Tarihi: 2023-09-10 18:35:23.661334
+Kayit Süresi: 4 ay 
+
